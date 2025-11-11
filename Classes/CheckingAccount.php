@@ -14,3 +14,4 @@ class CheckingAccount extends Account
             echo "Withdraw $amount . New balance: {$this->getBalance()}\n";
         }
 }
+
